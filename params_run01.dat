@@ -1,0 +1,11 @@
+
+#jewel parameters for RUN 01 on 60-160 (23.11.2021)
+
+HEPMCFILE run01.hepmc
+LOGFILE run01.log
+PTMIN 60
+PTMAX 160
+
+SQRTS 5020
+MEDIUMPARAMS medium_run01.dat 
+PDFSET cteq6l1.lhPDF
